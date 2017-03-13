@@ -63,7 +63,7 @@ public class Deck {
 //   String[] suits = {"Diamonds","Clubs","Hearts","Spades"};
 
 //   static boolean firstThread = true;
-//   public deck2(){
+//   public Deck(){
 //     for (int i = 0; i<suit.length; i++) {
 //       for(int j=0; j<values.length; j++){
 //         this.cards.add(new Card(suit[i],values[j]));
@@ -78,7 +78,7 @@ public class Deck {
 //   }
   
 //   public static void main(String[] args){
-//     deck2 deck = new Deck();
+//     Deck deck = new Deck();
     
 //     System.out.println(deck.getDeck());
 //   }
